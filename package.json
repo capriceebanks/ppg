@@ -1,5 +1,5 @@
 {
-  "name": "the-pythonpuff-girls",
+  "name": "ppg",
   "version": "1.0.0",
   "description": "",
   "main": "./server/index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capriceebanks/the-pythonpuff-girls.git"
+    "url": "git+https://github.com/capriceebanks/ppg.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/capriceebanks/the-pythonpuff-girls/issues"
+    "url": "https://github.com/capriceebanks/ppg/issues"
   },
-  "homepage": "https://github.com/capriceebanks/the-pythonpuff-girls#readme",
+  "homepage": "https://github.com/capriceebanks/ppg#readme",
   "dependencies": {
     "axios": "^0.25.0",
     "cors": "^2.8.5",
